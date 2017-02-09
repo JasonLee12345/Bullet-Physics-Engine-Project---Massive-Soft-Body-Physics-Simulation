@@ -1,0 +1,13 @@
+﻿Build started 2/8/2017 7:43:09 PM.
+     1>Project "C:\Users\Jason\Desktop\Previouse Courses\Animation\HWs\KunLi_Final\KunLi_Final\MassiveSoftBody\MassiveSoftBody\MassiveSoftBody.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\GnuWin32\include" /I"C:\Users\Jason\Desktop\Animation\Bullet\bullet3-master\bullet3-master\src" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt MassiveSoftBody.cpp stdafx.cpp
+         stdafx.cpp
+         MassiveSoftBody.cpp
+     1>c:\users\jason\desktop\previouse courses\animation\hws\kunli_final\kunli_final\massivesoftbody\massivesoftbody\massivesoftbody.cpp(13): fatal error C1083: Cannot open include file: 'GL/freeglut.h': No such file or directory
+         Generating Code...
+     1>Done Building Project "C:\Users\Jason\Desktop\Previouse Courses\Animation\HWs\KunLi_Final\KunLi_Final\MassiveSoftBody\MassiveSoftBody\MassiveSoftBody.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:03.37
